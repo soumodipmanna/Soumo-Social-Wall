@@ -2,6 +2,7 @@ import React from 'react';
 import { LogIn, LogOut, Search, LayoutDashboard } from 'lucide-react';
 import { User } from '../types';
 
+
 type HeaderProps = {
   currentUser: User | null;
   onLogout: () => void;
@@ -23,7 +24,7 @@ const Header: React.FC<HeaderProps> = ({
     <header className="fixed top-0 inset-x-0 z-40 bg-white/80 backdrop-blur border-b border-gray-100">
       <div className="max-w-3xl mx-auto px-4 py-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div className="flex items-center gap-3">
-          <img src="/assets/logo.svg" alt="Mini Social Wall" className="h-10 w-auto" />
+          <img src="/logo.webp"  className="h-10 w-auto" />
           <div>
             <p className="text-lg font-semibold text-gray-900">Soumo's Mini Social Wall</p>
             <p className="text-xs text-gray-500">
