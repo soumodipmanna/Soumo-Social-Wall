@@ -1,0 +1,9 @@
+<svg width="140" height="48" viewBox="0 0 140 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mini Social Wall logo">
+  <rect x="1" y="1" width="46" height="46" rx="14" fill="#2563EB" stroke="#1D4ED8" stroke-width="2"/>
+  <path d="M13 33V15H18.2L24 23.6L29.8 15H35V33H30.6V22.6L24 32H23.9L17.4 22.7V33H13Z" fill="#FFFFFF"/>
+  <path d="M60 18H78C82.418 18 86 21.582 86 26C86 30.418 82.418 34 78 34H60V18Z" fill="#0F172A"/>
+  <path d="M64 22H78C80.209 22 82 23.791 82 26C82 28.209 80.209 30 78 30H64V22Z" fill="#FFFFFF"/>
+  <circle cx="98" cy="26" r="8" fill="#0F172A"/>
+  <circle cx="98" cy="26" r="4" fill="#FFFFFF"/>
+  <path d="M112 34V18H118.5L123.5 28.2L128.5 18H135V34H130.6V25.2L126 34H121.9L116.4 25.1V34H112Z" fill="#0F172A"/>
+</svg>
